@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.30)
+project(algPripravaNaZkousku08_08_Dynamicke_struktury)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(algPripravaNaZkousku08_08_Dynamicke_struktury main.cpp)
